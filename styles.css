@@ -1,0 +1,51 @@
+form {
+     margin-left: 30px;
+    
+    }
+
+    #Name{
+     margin-left: 84px;
+    }
+    #Username{
+     margin-left: 56px;
+    }
+   
+    #Password{
+     margin-left: 60px;
+    }
+      #Pwd{
+          margin-left: 5px;
+      } 
+
+    #Male{
+     margin-left: 72px;
+    }
+
+    #HTML{
+     margin-left: 40px;
+    }
+
+
+
+    #Number{
+     margin-left: 20px;
+    }
+
+    #mail{
+     margin-left: 78px;
+    }
+
+    #col{
+     margin-left: 70px;
+     width: 10%;
+    }
+    
+    input[type=submit]{
+     margin-left: 120px;
+     width: 11%;
+     color: #fff;
+     background-color: #155EEF;
+    }
+.item-2,.item-3,.item-4,.item-5,.item-6,.item-7,.item-8,.item-9,.item-10,.item-1{
+     font-weight: bold;
+}
